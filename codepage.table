@@ -1,0 +1,58 @@
+Locale "English"
+
+BasicFont "NotoSansCJKjp-Regular.otf"
+ItalicFont "NotoSansCJKjp-Regular.otf"
+AltFont "NotoSansCJKjp-Medium.otf"
+FontSizes 6.00 7.00 8.00 9.00 10.00 12.00 14.00 16.00 19.00 23.00 27.00 60.00
+ItalicFontSizes 6.00 7.00 8.00 9.00 10.00 12.00 14.00 16.00 19.00 23.00 27.00 60.00
+AltFontSizes 6.00 7.00 8.00 9.00 10.00 12.00 14.00 16.00 19.00 22.00 27.00 60.00
+
+Uppercase
+"а" High "А"
+"б" High "Б"
+"в" High "В"
+"г" High "Г"
+"д" High "Д"
+"е" High "Е"
+"ё" High "Ё"
+"ж" High "Ж"
+"з" High "З"
+"и" High "И"
+"й" High "Й"
+"к" High "К"
+"л" High "Л"
+"м" High "М"
+"н" High "Н"
+"о" High "О"
+"п" High "П"
+"р" High "Р"
+"с" High "С"
+"т" High "Т"
+"у" High "У"
+"ф" High "Ф"
+"х" High "Х"
+"ц" High "Ц"
+"ч" High "Ч"
+"ш" High "Ш"
+"щ" High "Щ"
+"ъ" High "Ъ"
+"ы" High "Ы"
+"ь" High "Ь"
+"э" High "Э"
+"ю" High "Ю"
+"я" High "Я"
+
+"á" High "Á"
+"é" High "É"
+"í" High "Í"
+"ó" High "Ó"
+"ú" High "Ú"
+"ü" High "Ü"
+"ñ" High "Ñ"
+
+"ä" High "Ä"
+"ö" High "Ö"
+
+END
+
+
